@@ -1,0 +1,13 @@
+place name;id;comment
+Aspava;4;Yemekleri gerçekten çok başarılı. Özellikle kebap konusunda kendilerini aşmışlar. Aynı zamanda sonu bitmek bilmeyen ikramları var. Mutlaka gidilmeli. Verdiğiniz paranın karşılığını kat kat alacağınızdan emin olabilirsiniz. 
+Anıtkabir;4;Yoruma gerek yok. Atam her zaman izindeyiz.
+Kebapçı İskender;4;Henüz gitmedim ama arkadaşımın dediğine göre sabahın erken saatlerinden itibaren çok fazla sıra oluyormuş ve Bursa’daki bir numaralı iskenderciymiş.
+Kebapçı İskender;3;Harika!
+Dostlar Fırını;3;çook lezzeetllii!;0
+Dostlar Fırını;3;harika <3;0
+Kemeraltı Çarşısı;3;çok kalabalık!;0
+Galata Kulesi;3;harika bir yer...;0
+Kızılkayalar Hambuger;3;hem lezzetli hem de ucuz!;0
+Çelebi;3;harika!!!!;0
+Dostlar Fırını;3;bayıldım :);0
+Göl Pastanesi;3;güzel;0

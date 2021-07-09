@@ -1,0 +1,16 @@
+Type;Name;Address;Phone;season;info;price;distance_to_center;facilities;rates
+TravelToVisit;Kemeraltı Çarşısı;Anafartalar Cd,Konak,İzmir;;;İzmir Kemeraltı Çarşısı, tarihi ve yaşayan en önemli alışveriş merkezlerinden birisidir.Çarşı, bütün ihtiyacınızı karşılayabilecek potansiyele sahiptir. Çarşıda şerbetçiler, tarihi kahveciler, tüm samimiyetiyle sizlere dükkanlarındaki malları göstermek isteyen işportacılar, uluslararası ve ulusal markalar, tarihi restoranlar, tarihi gelinlikçiler, kuyumcular, kafeler, hazır giyim markaları, baharatçılar, aksesuarcılar, hediyelik eşya satan dükkanlar ve daha birçok şey bulunmaktadır.;0;0;no,no,no,yes,yes;4
+FoodAndDrink;Aspava;Ceyhun Atuf Kansu Cd. 94/A,Çankaya,Ankara;312-256-1256;;;medium;;no,yes,no,no,no;7
+TravelToVisit;Anıtkabir;Akdeniz Cd. No:31,Çankaya,Ankara;312-231-1861;;Anıtkabir, Türk Kurtuluş Savaşı'nın ve inkılaplarının önderi ve Türkiye Cumhuriyeti'nin ilk cumhurbaşkanı Mustafa Kemal Atatürk'ün, Ankara Anıttepe'de (eski adıyla Rasattepe) bulunan anıt mezarıdır.;0;3;no,no,yes,no,no;10
+Accommodation;Grand Ankara Otel;Atatürk Blv No:183,Çankaya,Ankara;312-410-5500;;;medium;;;5
+FoodAndDrink;Dostlar Fırını;Kıbrıs Şehitleri Cad. No:120,Alsancak,İzmir;232-421-9202;;;cheap;;no,yes,no,yes,yes;7
+Accommodation;Swissôtel Büyük Efes İzmir;Gazi Osman Paşa Bul. No 1,Konak,İzmir;232-414-0000;;;expensive;;;5
+TravelToVisit;Galata Kulesi;Büyük Hendek Cad. No:2,Galata,İstanbul;;;Galata Kulesi, İstanbul'un Galata semtinde bulunan bir kule. 528 yılında inşa edilen yapı, şehrin önemli sembolleri arasındadır.;10;0;no,no,no,no,no;4
+FoodAndDrink;Kızılkayalar Hambuger;258 Cad. No:56,Kadıköy,İstanbul;216-411-1177;;;cheap;;no,no,no,no,no;3
+Accommodation;Rhiss Bostancı;Emin Ali Paşa Cad. No:118,Bostancı,İstanbul;216-409-1111;;0;cheap;;;3
+TravelToVisit;Cumalıkızık Köyü; ,Cumalıkızık,Bursa;;;14.YY’a uzanan tarihi ve son derece iyi korunmuş mimarisiyle UNESCO Dünya Mirasları Geçici Listesi’nde yer alan köy hem huzurla biraz kafa dinlemek isteyen, hem kültürel anlamda yeni yerler keşfetmeyi seven hem de farklı yerlerde bol bol fotoğraf çekmeyi tercih eden, kısacası her türden gezginin ilgi alanına giriyor.;0;11;no,no,no,yes,yes;7
+FoodAndDrink;Kebapçı İskender;Ankara cad. No:33,Osmangazi,Bursa;224-225-1867;;;medium;;no,yes,no,yes,no;2
+Accommodation;Almira Otel;İsmet İnönü Cad. No:55,Osmangazi,Bursa;224-250-5363;;;medium;;;5
+FoodAndDrink;Çelebi;Kıbrıs Şehitleri Cad. No:120,Alsancak,İzmir;232-421-9210;;;medium;;no,yes,no,yes,yes;8
+FoodAndDrink;Göl Pastanesi;Ahmet Yesevi Cd.,Buca,İzmir;90-232-2564848;;;cheap;;no,no,no,no,no;9
+Accommodation;İmam Çağdaş;Balıklı,Şahinbey,Gaziantep;90-555-654545;;;expensive;;;5

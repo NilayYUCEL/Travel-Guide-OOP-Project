@@ -1,0 +1,13 @@
+type;name;surname;mail;password;phone;user_id;address;interest;fav_places
+admin;admin1;admin1;admin1;a;;;;;
+admin;admin2;admin2;admin2@gmail.com;guzelsifre;;;;;
+admin;admin3;admin3;admin3@gmail.com;guzelsifre;;;;;
+user;demet;akalın;demetakalinfc;demetsifre;90-544-6129;1;Nazar cad. Pırlanta apt. 25/8,Bebek,İstanbul;sea,history;Dostlar Fırını,Galata Kulesi,Aspava,Çelebi
+user;çağlar;gürpınar;caglar@gmail.com;caglarsifre;+90-551-1136;2;Kebapçılar cad. Yıkıklar apt. 27/1,Şahinbey,Gaziantep;food,snow;Anıtkabir
+user;nilay;yücel;nilay@gmail.com;nilaysifre;90-553-5164;4;Dertler cad. Ağlamak apt. 44/13,Mamak,Ankara;entertainment,shopping;Aspava,Dostlar Fırını
+user;Zeynep;Kaya;z;z;90-541-9329199;3;FSM Caddesi,Nilüfer,Bursa;travel,culture;Cumalıkızık Köyü,Anıtkabir,Kemeraltı Çarşısı,Aspava,Swissôtel Büyük Efes İzmir,Çelebi,burger
+user;Burcu;Olmez;burcu@gmail.com;burcusifre;541-454-454646;6;İzmir,Buca,Tınaztepe;yoga,makeup,beauty,game,tarçın;
+user;ece;kobanç;ece@gmail.com;ecesifre;541-546-665665;7;İzmir,Karşıyaka,Alaybey;Coffe,History,Study,Coding,Volleyball;
+user;can;kızılöz;can@gmail.com;cansifre;541-662-5656;8;İzmir,Buca,Adatepe;Volleyball,Game,Study,Coding,Shopping;
+user;melek;patır;dhjsadhja;melek;56-565-565;8;kırşehir,kaman,zhjdhasdss;hhjh,hjhj,hjhj,hjh,hjh;
+user;Nilay;Yücel;deneme@gmail.com;123;530-850-7224;9;ankara,mamak,sklkfds;dsk,KLK,JKL,JKK,KLJK;

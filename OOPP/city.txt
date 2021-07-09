@@ -1,0 +1,82 @@
+Plaka No;Adı;Yüzölçümü;Nüfusu;Nüfus Yoğunluğu;Merkez;Merkez Nüfusu;Bölge;Deniz
+1;Adana;14256;1849478;12973;Adana;1130710;Akdeniz;yes
+2;Adıyaman;7572;623811;8238;Adıyaman;178538;Güneydoğu Anatolia;no
+3;Afyon;14532;812416;5591;Afyon;128516;Ege;no
+4;Ağrı;11315;528744;4673;Ağrı;79764;Doğu Anatolia;no
+5;Amasya;5731;365231;6373;Amasya;74393;Karadeniz;no
+6;Ankara;25615;4007860;15647;Ankara;3203362;İç Anatolia;no
+7;Antalya;20599;1719751;8349;Antalya;603190;Akdeniz;yes
+8;Artvin;793;191934;2562;Artvin;23157;Karadeniz;yes
+9;Aydın;7922;950757;12001;Aydın;142267;Ege;yes
+10;Balıkesir;14442;1076347;7453;Balıkesir;215436;Marmara;yes
+11;Bilecik;4181;194326;4648;Bilecik;34105;Marmara;no
+12;Bingöl;8402;253739;302;Bingöl;68876;Doğu Anatolia;no
+13;Bitlis;8413;388678;462;Bitlis;44923;Doğu Anatolia;no
+14;Bolu;10716;270654;2526;Bolu;84565;Karadeniz;no
+15;Burdur;7238;256803;3548;Burdur;63363;Akdeniz;no
+16;Bursa;11087;2125140;19168;Bursa;1194687;Marmara;yes
+17;Çanakkale;9887;464975;4703;Çanakkale;75810;Marmara;yes
+18;Çankırı;8411;270355;3214;Çankırı;62508;İç Anatolia;no
+19;Çorum;12833;597065;4653;Çorum;161321;Karadeniz;no
+20;Denizli;11716;850029;7255;Denizli;275480;Ege;no
+21;Diyarbakır;15162;1362708;8988;Diyarbakır;545983;Güneydoğu Anatolia;no
+22;Edirne;6241;402606;6451;Edirne;119298;Marmara;yes
+23;Elazığ;9181;569616;6204;Elazığ;266495;Doğu Anatolia;no
+24;Erzincan;11974;316841;2646;Erzincan;107175;Doğu Anatolia;no
+25;Erzurum;24741;937389;3789;Erzurum;361235;Doğu Anatolia;no
+26;Eskişehir;13904;706009;5078;Eskişehir;482793;İç Anatolia;no
+27;Gaziantep;7194;1285249;17866;Gaziantep;853513;Güneydoğu Anatolia;no
+28;Giresun;7151;523819;7325;Giresun;83636;Karadeniz;yes
+29;Gümüşhane;6125;186953;3052;Gümüşhane;30270;Karadeniz;no
+30;Hakkari;7729;236581;3061;Hakkari;58145;Doğu Anatolia;no
+31;Hatay;5678;1253726;2208;Antakya;144910;Akdeniz;yes
+32;Isparta;8733;513681;5882;Isparta;148496;Akdeniz;no
+33;Mersin;15737;1651400;10494;Mersin;537842;Akdeniz;yes
+34;İstanbul;5170;10018735;193786;İstanbul);8803468;Marmara;yes
+35;İzmir;11811;3370866;2854;İzmir;2232265;Ege;yes
+36;Kars;9594;325016;3388;Kars;78473;Doğu Anatolia;no
+37;Kastamonu;13473;375476;2787;Kastamonu;64606;Karadeniz;yes
+38;Kayseri;17116;1060432;6196;Kayseri;536392;İç Anatolia;no
+39;Kırklareli;6056;328461;5424;Kırklareli;53221;Marmara;yes
+40;Kırşehir;6434;253239;3936;Kırşehir;88105;İç Anatolia;no
+41;Kocaeli;3635;1206085;3318;İzmit;195699;Marmara;yes
+42;Konya;40824;2192166;537;Konya;742690;İç Anatolia;no
+43;Kütahya;12119;656903;542;Kütahya;166665;Ege;no
+44;Malatya;12235;853658;6977;Malatya;381081;Doğu Anatolia;no
+45;Manisa;13120;1260169;9605;Manisa;214345;Ege;no
+46;Kahramanmaraş;14213;1002384;7053;Kahramanmaraş;326198;Akdeniz;no
+47;Mardin;9097;705098;7751;Mardin;65072;GüneyDoğu Anatolia;no
+48;Muğla;12716;715328;5625;Muğla;43845;Ege;yes
+49;Muş;8023;453654;5654;Muş;67927;Doğu Anatolia;no
+50;Nevşehir;5438;309914;5699;Nevşehir;67864;İç Anatolia;no
+51;Niğde;7318;348081;4757;Niğde;78088;İç Anatolia;no
+52;Ordu;5894;887765;15062;Ordu;112525;Karadeniz;yes
+53;Rize;3792;365938;965;Rize;78144;Karadeniz;yes
+54;Sakarya;4895;756168;15448;Adapazarı;283752;Marmara;yes
+55;Samsun;9474;1209137;12763;Samsun;363180;Karadeniz;yes
+56;Siirt;5465;263676;4825;Siirt;98281;Güneydoğu Anatolia;no
+57;Sinop;5858;225574;3851;Sinop;30502;Karadeniz;yes
+58;Sivas;28129;755091;2684;Sivas;251776;İç Anatolia;no
+59;Tekirdağ;6345;623591;9828;Tekirdağ;107191;Marmara;yes
+60;Tokat;9912;828027;8354;Tokat;113100;Karadeniz;no
+61;Trabzon;4495;975137;21694;Trabzon;214949;Karadeniz;yes
+62;Tunceli;7406;93584;1264;Tunceli;25041;Doğu Anatolia;no
+63;Şanlıurfa;19091;1443422;7561;Şanlıurfa;385588;Güneydoğu Anatolia;no
+64;Uşak;5174;322313;6229;Uşak;137001;Ege;no
+65;Van;20927;877524;4193;Van;284464;Doğu Anatolia;no
+66;Yozgat;14083;682919;4849;Yozgat;73930;İç Anatolia;no
+67;Zonguldak;3470;615599;17741;Zonguldak;104276;Karadeniz;yes
+68;Aksaray;8051;396084;492;Aksaray;129949;İç Anatolia;no
+69;Bayburt;4043;97358;2408;Bayburt;32285;Karadeniz;no
+70;Karaman;8816;243210;2759;Karaman;105384;İç Anatolia;no
+71;Kırıkkale;4589;383508;8357;Kırıkkale;205078;İç Anatolia;no
+72;Batman;4671;456734;9778;Batman;246678;Güneydoğu Anatolia;no
+73;Şırnak;7296;353197;4841;Şırnak;52743;Güneydoğu Anatolia;no
+74;Bartın;1960;184178;9397;Bartın;35992;Karadeniz;yes
+75;Ardahan;5495;133756;2434;Ardahan;17274;Doğu Anatolia;no
+76;Iğdır;3584;168634;4705;Iğdır;59880;Doğu Anatolia;no
+77;Yalova;403;168593;41834;Yalova;70118;Marmara;yes
+78;Karabük;2864;225102;786;Karabük;100749;Karadeniz;no
+79;Kilis;1239;114724;9259;Kilis;70670;Güneydoğu Anatolia;no
+80;Osmaniye;3189;458782;14386;Osmaniye;173977;Akdeniz;no
+81;Düzce;1065;314266;29509;Düzce;56649;Karadeniz;yes
